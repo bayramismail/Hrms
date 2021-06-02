@@ -8,7 +8,7 @@ import Kodlama.Io.Hrms.core.utilities.result.DataResult;
 import Kodlama.Io.Hrms.core.utilities.result.Result;
 import Kodlama.Io.Hrms.core.utilities.result.SuccessDataResult;
 import Kodlama.Io.Hrms.core.utilities.result.SuccessResult;
-import Kodlama.Io.Hrms.dataAccess.concretes.CompanyDao;
+import Kodlama.Io.Hrms.dataAccess.abstracts.CompanyDao;
 import Kodlama.Io.Hrms.entities.concretes.Company;
 
 @Service
